@@ -3,7 +3,7 @@
 
 
 
-Repo: https://ucsb-cs156-w24/jpa02-KushagraKanaujia
+Repo: https://github.com/ucsb-cs156-w24/jpa02-KushagraKanaujia
 
 
 
